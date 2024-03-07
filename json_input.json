@@ -1,0 +1,6 @@
+{
+"geometry" : "b737a_46_pts.txt",
+"freestream_velocity" : 10.0,
+"alpha[deg]" : 5.0,
+"omega[deg]" : 0.0
+}
